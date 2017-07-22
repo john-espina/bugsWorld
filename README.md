@@ -1,2 +1,3 @@
 # bugsWorld
 A world of bugs, where bugs need to eat the plants 
+This is part of our school exercise on the topic of Inheritance. It is also intended for us to improve our understanding of Classes and objects. We were asked to create A Bug Class and three subclasses of it that will inhereit its fields and methods. We also created a World class where we can put the bugs. Inside the world class will be plants and obstacles. At the end of the exercise, we are tasked to make a new design of the bug world. My new design is a game where the user can choose which bug to move and to which direction. The goal is for the bug to mve towards the plant and eat the plant. The bugs are represented by a letter and the plants are represented by numbers. Th
